@@ -1,4 +1,13 @@
-### Hi there 👋
+### Adeel Syed
+
+Full-stack web developer and automation enthusiast.
+
+
+<a href="https://adeels.ca">https://adeels.ca</a>
+
+<a href="mailto:contact@adeels.ca">contact@adeels.ca</a>
+
+
 
 <!--
 **abigdeel/abigdeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
